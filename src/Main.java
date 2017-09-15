@@ -1,8 +1,8 @@
 public class Main {
 
 	public static void main(String[] args) {
-		Student stu1=new Student("Sai");
-		Student stu2=new Student("Ram");
+		StudentGroup stu1=new StudentGroup("Sai");
+		StudentGroup stu2=new StudentGroup("Ram");
 		System.Out.println("creating 2 students");
 		stu1.add("\n1: sri");
 		stu1.add("\n2: sriram");
