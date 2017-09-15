@@ -1,5 +1,5 @@
 import java.util.Date;
-
+import java.util.Scanner;
 /**
  * Class that stores information about the concrete student
  * 

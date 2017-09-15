@@ -1,5 +1,5 @@
 import java.util.Date;
-
+import java.util.Scanner;
 /**
  * An interface that provide a number of operations for any array of students
  *
